@@ -9,6 +9,6 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeanWang0111&layout=compact&theme=ambient_gradient&card_width=350" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SeanWang0111&layout=compact&theme=ambient_gradient&card_width=350" />
 </a>
 
