@@ -1,4 +1,6 @@
 # Hi there 👋
+My name is Sean, is a software engineer who specializes in iOS.
+
 ---
 ### Languages and Tools
 <p>
