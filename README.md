@@ -19,6 +19,20 @@
 
 ---
 
+<div align="center">
+  <a href="https://www.github.com/chenchewei" target="blank">
+    <img width=48% src="http://github-readme-streak-stats.herokuapp.com?user=SeanWang0111&theme=unicorn&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img width=48% src="https://github-readme-stats.vercel.app/api?username=SeanWang0111&theme=ambient_gradient&hide_border=true">
+  </a>
+  <img width=85% src="https://github-profile-trophy.vercel.app/?username=SeanWang0111&row=1&theme=onedark&no-bg=true&no-frame=true">
+</div>
+
+<p align="center">
+  <img width="125px" src="https://komarev.com/ghpvc/?username=SeanWang0111&style=plastic"/>
+</p>
+
+---
+
 <p>
   <a href="https://www.google.com/intl/zh-TW/gmail/about/">
   <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-seanwang0111@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=EA4335"/></a><br>
