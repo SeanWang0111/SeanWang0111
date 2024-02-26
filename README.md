@@ -1,5 +1,6 @@
 # Hi there 👋
-My name is Sean, is a software engineer who specializes in iOS.
+My name is Sean.  I am a software engineer who specializes in iOS.
+
 
 ---
 ### Languages and Tools
@@ -34,6 +35,7 @@ My name is Sean, is a software engineer who specializes in iOS.
 </p>
 
 ---
+### How to reach me
 
 <p>
   <a href="https://www.google.com/intl/zh-TW/gmail/about/">
