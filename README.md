@@ -40,6 +40,8 @@ My name is Sean.  I am a software engineer who specializes in iOS.
 <p>
   <a href="https://www.google.com/intl/zh-TW/gmail/about/">
   <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-seanwang0111@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=EA4335"/></a><br>
+  <a href="https://discord.com/">
+  <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-王奕翔%234855-C4C4C4?style=flat&logo=discord&logoColor=5865F2"/></a><br>
   <a href="https://github.com/SeanWang0111">
   <img style="height:30px" alt="GitHub" src="https://img.shields.io/badge/-SeanWang0111-C4C4C4?style=flat&logo=GitHub&logoColor=181717"/></a><br>
 </p>
